@@ -12,6 +12,11 @@ AgentFlow-Builder is a powerful, customizable AI system that lets you create int
 - Save and load reusable workflows
 - Final output panel with export option
 
+## Live Demo
+
+Try the app live here:
+[AgentFlow-Builder Streamlit App](https://agentflow-builder-kyqgudkn4fggwvunxsnghf.streamlit.app/)
+
 ## How to Run
 
 1. Clone the repository:
