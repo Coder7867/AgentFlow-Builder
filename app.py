@@ -102,4 +102,4 @@ if st.button("Load Workflow"):
     if loaded:
         st.json(loaded)
     else:
-        st.error(f"No workflow found with name '{workflow_name}'.")￼Enter
+        st.error(f"No workflow found with name '{workflow_name}'.")
